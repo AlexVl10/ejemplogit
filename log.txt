@@ -1,0 +1,29 @@
+commit 2ff9aa17fd00d1a90f9eb960dd64d77f08da29a2
+Author: Alex-PC <alexx7valenzuela@hotmail.com>
+Date:   Tue Jul 4 11:38:58 2017 -0600
+
+    Integracion de bootstrap
+
+commit dae0217bbaefa4493540de2eee083ef261da534b
+Author: Alex-PC <alexx7valenzuela@hotmail.com>
+Date:   Tue Jul 4 11:27:51 2017 -0600
+
+    Se agrego pie de pagina al proyecto
+
+commit 72e3d16c03abb17dd2518e0727df7b470fba9e1b
+Author: Alex-PC <alexx7valenzuela@hotmail.com>
+Date:   Tue Jul 4 11:24:10 2017 -0600
+
+    Se agrego una imagen al proyecto
+
+commit 53d33710783548c9bfd8c9953c1a019a5bf2aadd
+Author: Alex-PC <alexx7valenzuela@hotmail.com>
+Date:   Tue Jul 4 11:16:27 2017 -0600
+
+    Se agrego titulo a la pagina
+
+commit 6e5161523596655a9e3cb262042a8749426481ec
+Author: Alex-PC <alexx7valenzuela@hotmail.com>
+Date:   Tue Jul 4 11:08:34 2017 -0600
+
+    Estructura inicial del proyecto
